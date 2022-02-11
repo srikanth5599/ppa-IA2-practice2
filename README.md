@@ -1,4 +1,4 @@
-<br> 1.	Write a program to find the area of a triangle using following function signatures.
+1<br> 1.	Write a program to find the area of a triangle using following function signatures.
 		<br> void input(float *base, float *height);
 		<br> void find_area(float base , float height, float *area);
 		<br> void output(float base, float height, float area);

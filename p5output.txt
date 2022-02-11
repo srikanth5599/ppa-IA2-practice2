@@ -1,1 +1,3 @@
-
+Enter a number : 3024
+Enter a number : 5544
+The GCD(HCF) of [3024,5544] is "504"

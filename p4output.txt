@@ -1,1 +1,8 @@
 
+Enter array size : 5
+Enter the numbers : 1
+2
+7
+8
+12
+The sum of only the Composite numbers = 20

@@ -1,1 +1,2 @@
-
+Enter a string : srikanth
+The string "srikanth" is reversed to "htnakirs"

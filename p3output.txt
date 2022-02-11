@@ -1,1 +1,8 @@
-
+ gcc -g p3original.c
+ ./a.out
+Enter a number : 93
+"93" is a Composite number
+ 
+ ./a.out
+Enter a number : 1223
+"1223" is a Prime number

@@ -1,1 +1,5 @@
-
+ gcc -g p1original.c
+ ./a.out
+Enter the base of the triangle : 1
+Enter the height of the triangle : 2
+Area of triangle having base = "1.000000" and height = "2.000000" is [1.000000]
