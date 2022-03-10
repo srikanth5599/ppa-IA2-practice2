@@ -1,1 +1,3 @@
-
+Enter base =2
+Enter altitude =5
+Area of triangle of base 2.000000 and altitude 5.000000 is 5.000000
